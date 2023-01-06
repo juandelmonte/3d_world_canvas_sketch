@@ -12,6 +12,7 @@ var globalScale = 1;
 var colorindex = 0;
 
 const settings = {
+  name: "3dWorld",
   dimensions: [1080, 1080],
   animate: true //add to panel
 };
