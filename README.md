@@ -2,7 +2,7 @@
 
 These sketches are the result of my journey trying to learn some computer graphics concepts, I'd say I want(ed) to (be able) to turn an(y) idea of a 3D object into a visual on the screen. Of course I know there are really nice libraries to ease this process but well I can't help trying to understand how things work so I took this as a challenge and I did it from scratch. 
 
-I got skilled and inspired from the Domestika course 'Creative Coding: Making Visuals with JavaScript' (https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript/course). This idea of generative art or programmatic design really caught my eye, since I've been working with data for a while and deem data visualization highly valuable I knew that this course was going to be enriching for me and I can say now retrospectively that it was. 
+I got skilled and inspired from the Domestika course 'Creative Coding: Making Visuals with JavaScript' (https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript/course). This idea of generative art or programmatic design really caught my eye, since I've been working with data for a while using the browser and deem data visualization highly valuable I knew that this course was going to be enriching for me and I can say now retrospectively that it was. 
 
 I needed to review basic linear algebra and I seized to try some concepts that I had learned many years ago when studying engineering, such as linear transformations. This is why I built vector and matrix classes to work with, instead of using the native Javascript 'Math' ones as most of the people would think is reasonable.
 
