@@ -8,7 +8,7 @@ In addition to improving my understanding of linear algebra concepts, this proje
 
 ## 3D World
 
-The 3D World sketch is an example of how I can create and display 3-dimensional objects on the browser. The output showcases how the projection of the objects changes as the camera moves in different directions. 
+The 3D World sketch is an example of how I can create and display data based 3-dimensional objects on the browser. The output showcases how the projection of the objects changes as the camera moves in different directions. 
 
 Created with CodeSandbox. Link -> https://codesandbox.io/s/3d-world-0pec6e?file=/src/index.js:343-472
 
